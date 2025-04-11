@@ -1,0 +1,22 @@
+body{
+	font-family: "Outfit", sans-serif;
+	text-align: center;
+	background-color: #555466;
+}
+
+
+.container{
+	padding: 20px;
+	box-shadow: 10px 10px 50px 8px;
+	border-radius: 20px;
+	margin-top: 150px;
+	width: 750px;
+}
+
+
+div {
+	margin: 20px;
+	padding: 15px;
+	background-color:#A0A4B7;
+	color: #343440;
+}
